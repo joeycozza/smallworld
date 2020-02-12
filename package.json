@@ -1,5 +1,5 @@
 {
-  "name": "@cozza/smallworld",
+  "name": "smallworld",
   "version": "1.0.0",
   "description": "Play Its a Small World Destruction while running another command. Completely ripped off from https://github.com/mafintosh/benny-hill.git",
   "bin": {
