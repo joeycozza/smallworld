@@ -1,0 +1,21 @@
+{
+  "name": "@cozza/smallworld",
+  "version": "1.0.0",
+  "description": "Play Its a Small World Destruction while running another command. Completely ripped off from https://github.com/mafintosh/benny-hill.git",
+  "bin": {
+    "smallworld": "./bin.js"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joeycozza/small-world.git"
+  },
+  "author": "Joey Cozza (@joeycozza)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeycozza/small-world/issues"
+  },
+  "homepage": "https://github.com/joeycozza/small-world"
+}
